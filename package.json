@@ -1,23 +1,31 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "thomas-portier-osteopathe-noyal",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Thomas Portier, ostéopathe à Noyal",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Vincent Portier <vinz.portier@gmail.com>",
   "dependencies": {
+    "babel-plugin-styled-components": "^1.12.0",
     "gatsby": "^3.6.2",
     "gatsby-plugin-gatsby-cloud": "^2.6.1",
+    "gatsby-plugin-google-analytics": "^3.7.0",
     "gatsby-plugin-image": "^1.6.0",
     "gatsby-plugin-manifest": "^3.6.0",
     "gatsby-plugin-offline": "^4.6.0",
     "gatsby-plugin-react-helmet": "^4.6.0",
+    "gatsby-plugin-robots-txt": "^1.6.2",
     "gatsby-plugin-sharp": "^3.6.0",
+    "gatsby-plugin-sitemap": "^4.3.0",
+    "gatsby-plugin-styled-components": "^4.6.0",
     "gatsby-source-filesystem": "^3.6.0",
     "gatsby-transformer-sharp": "^3.6.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "react-transition-group": "^4.4.2",
+    "scrollreveal": "^4.0.9",
+    "styled-components": "^5.3.0"
   },
   "devDependencies": {
     "prettier": "2.2.1"
