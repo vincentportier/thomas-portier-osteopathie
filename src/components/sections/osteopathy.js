@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react"
 import styled from "styled-components"
-import ScrollReveal from "scrollreveal"
+import sr from "../../utils/sr"
 import { srConfig } from "../../config"
 
 const StyledOsteopathy = styled.section`
@@ -52,7 +52,7 @@ export const Osteopathy = () => {
   const sectionRef = useRef(null)
 
   useEffect(() => {
-    ScrollReveal().reveal(sectionRef.current, srConfig())
+    sr.reveal(sectionRef.current, srConfig())
   }, [])
 
   return (

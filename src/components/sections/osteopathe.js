@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from "react"
 import styled from "styled-components"
 import { StaticImage } from "gatsby-plugin-image"
-import ScrollReveal from "scrollreveal"
+import sr from "../../utils/sr"
 import { srConfig } from "../../config"
 
 const StyledOsteopathe = styled.section`
@@ -33,7 +33,7 @@ export const Osteopathe = () => {
   const sectionRef = useRef(null)
 
   useEffect(() => {
-    ScrollReveal().reveal(sectionRef.current, srConfig())
+    sr.reveal(sectionRef.current, srConfig())
   }, [])
 
   return (
