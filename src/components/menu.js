@@ -185,7 +185,7 @@ export const Menu = () => {
       document.removeEventListener("keydown", onKeyDown)
       window.removeEventListener("resize", onResize)
     }
-  })
+  }, [])
 
   const onResize = e => {
     if (e.currentTarget.innerWidth > 980) {
