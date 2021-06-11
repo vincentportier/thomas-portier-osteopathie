@@ -34,10 +34,10 @@ const Navigation = styled.nav`
     font-weight: 900;
 
     .logo-firstLine {
-      letter-spacing: 0.1rem;
+      letter-spacing: 0.07rem;
     }
     .logo-secondLine {
-      letter-spacing: 0.33rem;
+      letter-spacing: 0.35rem;
     }
   }
 
@@ -124,7 +124,7 @@ export const Nav = () => {
               <div className="nav-logo">
                 <span className="logo-firstLine">THOMAS PORTIER</span>
                 <br />
-                <span className="logo-secondLine">OSTEOPATHE</span>
+                <span className="logo-secondLine">OSTÉOPATHE</span>
               </div>
             </CSSTransition>
           )}
