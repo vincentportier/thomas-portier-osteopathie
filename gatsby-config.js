@@ -3,7 +3,7 @@ module.exports = {
     title: `Thomas Portier Ostéopathe Noyal sur Vilaine`,
     description: `Thomas Portier, Ostéopathe titulaire d'un diplôme d'état exerce à Noyal sur Vilaine à 15 minutes de Rennes. Réservation au 06 37 12 04 85.`,
     author: `Vincent Portier - https://vportier.com`,
-    siteUrl: "https://osteo-rennes.com",
+    siteUrl: "https://portier-osteo-rennes.com",
     image: "/og.png",
   },
   plugins: [
@@ -37,12 +37,12 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sitemap`,
     "gatsby-plugin-robots-txt",
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: "UA-188933560-2",
-    //     head: true,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-199535196-1",
+        head: true,
+      },
+    },
   ],
 }
