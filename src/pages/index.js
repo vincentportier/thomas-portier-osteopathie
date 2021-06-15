@@ -12,7 +12,7 @@ import {
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Accueil" />
+    <Seo />
     <Hero />
     <Informations />
     <Osteopathy />
