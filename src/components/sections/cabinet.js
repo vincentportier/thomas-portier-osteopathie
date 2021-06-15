@@ -10,7 +10,7 @@ const StyledCabinet = styled.section`
     .cabinet-image-grid {
       margin: 0 auto;
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr;
       grid-gap: 20px;
       @media (max-width: 780px) {
         grid-template-columns: 1fr;
@@ -26,14 +26,6 @@ export const Cabinet = () => {
         <div className="container">
           <h1>Le cabinet</h1>
           <div className="cabinet-image-grid">
-            <StaticImage
-              src="../../images/cabinet1.jpeg"
-              alt="cabinet osteopathe"
-            />
-            <StaticImage
-              src="../../images/cabinet1.jpeg"
-              alt="cabinet osteopathe"
-            />
             <StaticImage
               src="../../images/cabinet1.jpeg"
               alt="cabinet osteopathe"
