@@ -149,13 +149,13 @@ export const Informations = () => {
               <div className="mapouter">
                 <div className="gmap_canvas">
                   <iframe
-                    title="carte accès"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d85238.95300380372!2d-1.625223566629376!3d48.115689290547955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480ed9d5ecf4cf69%3A0xa49302c302b9c73d!2sPORTIER%20Thomas!5e0!3m2!1sfr!2sfr!4v1623925594340!5m2!1sfr!2sfr"
                     width="200"
                     height="200"
-                    id="gmap_canvas"
-                    src="https://maps.google.com/maps?q=thomas%20portier&t=&z=9&ie=UTF8&iwloc=&output=embed"
                     frameBorder="0"
-                    scrolling="no"
+                    allowfullscreen=""
+                    loading="lazy"
+                    title="carte accès"
                     marginHeight="0"
                     marginWidth="0"
                   ></iframe>
