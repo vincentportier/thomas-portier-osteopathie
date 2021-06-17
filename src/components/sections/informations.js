@@ -92,6 +92,7 @@ const StyledCard = styled.div`
     img {
       display: block;
       width: 100%;
+      height: 100%;
       max-width: 150px;
       margin: 0 auto;
       object-fit: contain;

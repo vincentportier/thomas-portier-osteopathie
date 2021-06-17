@@ -72,9 +72,9 @@ export const Osteopathy = () => {
             douleurs.
           </p>
           <p>
-            L’ostéopathie est à visée préventive et curative. Par exemple je
-            soigne les maux de dos, les entorses, le stress, les règles
-            douloureuses ou encore les migraines.
+            L’ostéopathie est à visée préventive et curative. Par exemple, je
+            peux prendre en charge les maux de dos, les entorses, le stress, les
+            règles douloureuses ou encore les migraines.
           </p>
           <p>
             Je peux recevoir différents types de patients : des nourrissons, des
