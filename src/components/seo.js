@@ -35,8 +35,6 @@ const Seo = ({ title, description, image }) => {
     url: `${siteUrl}${pathname}`,
   }
 
-  console.log(seo)
-
   return (
     <Helmet
       title={title}
