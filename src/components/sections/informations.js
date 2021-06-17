@@ -133,7 +133,7 @@ export const Informations = () => {
               <h1>Informations d'accès</h1>
               <div>
                 <h2>Adresse:</h2>
-                <p>12 Pl. de L’Europe</p>
+                <p>12 Pl. de l’Europe</p>
                 <p> 35530, Noyal-sur-Vilaine</p>
               </div>
 
