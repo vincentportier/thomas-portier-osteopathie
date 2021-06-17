@@ -133,7 +133,7 @@ export const Informations = () => {
               <h1>Informations d'accès</h1>
               <div>
                 <h2>Adresse:</h2>
-                <p>12 Pl. de L’europe</p>
+                <p>12 Pl. de L’Europe</p>
                 <p> 35530, Noyal-sur-Vilaine</p>
               </div>
 
@@ -142,7 +142,7 @@ export const Informations = () => {
                 <ul>
                   <li>15 minutes de Rennes</li>
                   <li>Rez-de-chaussée</li>
-                  <li>Accès handicapé </li>
+                  <li>Accès PMR</li>
                   <li>Parking gratuit</li>
                 </ul>
               </div>

@@ -48,7 +48,7 @@ export const Osteopathe = () => {
             Titulaire d'un diplôme d'ostéopathe depuis 2013 après un cursus de 5
             ans dans une école agréée par le ministère de la santé, j'exerce à
             Noyal sur Vilaine à 15 minutes de Rennes depuis 2007. Je suis formé
-            en Ostéopathie viscérale et crânienne, aux différentes techniques
+            en ostéopathie viscérale et crânienne, aux différentes techniques
             structurelles ainsi qu'à une prise en charge tissulaire des
             restrictions de mobilités. Ma pratique se veut la plus globale
             possible et s'adapte aux différentes pertes de mouvements de votre
