@@ -177,7 +177,7 @@ export const Informations = () => {
               <div>
                 <h2>Réservation en ligne:</h2>
                 <a
-                  href="https://www.doctolib.fr/osteopathe/noyal-sur-vilaine/thomas-portier"
+                  href="https://prendre-mon-rdv.com/portier-thomas/osteopathe/noyal-sur-vilaine"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn"
