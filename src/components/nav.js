@@ -135,7 +135,7 @@ export const Nav = () => {
             {isMounted && (
               <CSSTransition classNames="fadedown" timeout={1000}>
                 <a
-                  href="https://www.doctolib.fr/osteopathe/noyal-sur-vilaine/thomas-portier"
+                  href="https://prendre-mon-rdv.com/portier-thomas/osteopathe/noyal-sur-vilaine"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn"
