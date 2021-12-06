@@ -92,7 +92,7 @@ const Footer = () => {
           <h1>Réservation en ligne</h1>
           <a
             className="btn"
-            href="https://www.doctolib.fr/osteopathe/noyal-sur-vilaine/thomas-portier"
+            href="https://prendre-mon-rdv.com/portier-thomas/osteopathe/noyal-sur-vilaine"
           >
             Réservez ici
           </a>
