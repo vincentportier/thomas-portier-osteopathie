@@ -95,7 +95,7 @@ export const Hero = () => {
                   </h2>
 
                   <a
-                    href="https://prendre-mon-rdv.com/portier-thomas/osteopathe/noyal-sur-vilaine"
+                    href="https://www.doctolib.fr/osteopathe/noyal-sur-vilaine/thomas-portier"
                     target="_blank"
                     rel="noopener noreferrer"
                     role="button"
